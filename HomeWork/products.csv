@@ -1,0 +1,7 @@
+Product,Manufacturer,Quantity,Price,VAT,Sum Price
+Host,GigaByte,100,10000,0.1,900000.0
+Computer,Dell,200,1000,0.1,180000.0
+Laptop,Apple,150,2000,0.1,270000.0
+Printer,HP,300,500,0.1,135000.0
+Projector,Hikvision,250,1500,0.1,337500.0
+TV,Sony,175,3000,0.1,472500.0
